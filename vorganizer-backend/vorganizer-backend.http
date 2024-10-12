@@ -1,0 +1,6 @@
+@vorganizer_backend_HostAddress = http://localhost:5107
+
+GET {{vorganizer_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
